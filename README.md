@@ -91,4 +91,5 @@ apply_model(train, test, features_labels, model_name='GBT',save_as='NewGBT.model
 apply_model(train, test, features_labels,model_name='LR', load_from_existing='LogisticRegression.model')
 ```
 
-
+More details
+Please refer to this [Medium Post](https://medium.com/@arjunkad/sparkify-churn-prediction-detecting-unhappy-customers-7349891942c3) for details about this model.
